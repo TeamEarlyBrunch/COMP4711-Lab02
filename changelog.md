@@ -11,3 +11,8 @@ The project uses Allman Notation
 ### Added
 - Added changelog.md
 - Updated .gitignore to include .idea
+
+## 2017-09-14
+### Added
+- Added new Carol Burnett quote
+
