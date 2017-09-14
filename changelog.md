@@ -19,3 +19,9 @@ The project uses Allman Notation
 ## 2017-09-14 2:00 PM
 ### Added
 - Added tooltip showing the name and role of each person on quotes
+
+## 2017-09-14 2:17 PM
+### Added
+- Added show method in Welcome.php controller
+- Added actor.php view to show each actor
+- Added new image link in Welcome.php 
