@@ -25,3 +25,8 @@ The project uses Allman Notation
 - Added show method in Welcome.php controller
 - Added actor.php view to show each actor
 - Added new image link in Welcome.php 
+
+## 2017-09-15 11:12AM
+### Added
+- Added bootstrap to view template
+- Added a simple table for actor pages to display name/role/quote
