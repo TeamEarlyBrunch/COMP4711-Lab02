@@ -29,7 +29,7 @@ if (!defined('APPPATH'))
                 {content}
             </div>
             <div id="footer" class="span12">
-                Copyright &copy; 2015-2017,  <a href="mailto:someone@somewhere.com">Me</a>.
+                Copyright &copy; 2015-2017,  <a href="mailto:li.matthew.m@gmail.com">Me</a>.
             </div>
         </div>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
